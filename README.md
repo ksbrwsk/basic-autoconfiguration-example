@@ -36,9 +36,3 @@ mvn spring-boot:run
 ```
 
 to run it on your development machine.
-
-Point your browser to 
-
-```bash
-http://localhost:8080
-```
