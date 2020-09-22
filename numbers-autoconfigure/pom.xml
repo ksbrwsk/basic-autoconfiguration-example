@@ -5,13 +5,14 @@
 
     <parent>
         <groupId>de.ksbrwsk</groupId>
-        <artifactId>basic-autoconfigure-sample</artifactId>
+        <artifactId>basic-autoconfiguration-example</artifactId>
         <version>1.0.0</version>
+        <relativePath>../pom.xml</relativePath>
     </parent>
 
     <groupId>de.ksbrwsk</groupId>
     <artifactId>numbers-autoconfigure</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
 </project>
